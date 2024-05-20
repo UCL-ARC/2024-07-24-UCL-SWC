@@ -55,8 +55,9 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %}
 
-
-<h2>Tickets</h2>
+{% comment %}
+Tickets via PreTix
+{% endcomment %}
 <div class="pretix-widget-compat" event="https://pretix.eu/ARC/swc-2024-07-24/" single-item-select="button"></div>
 <noscript>
    <div class="pretix-widget">
