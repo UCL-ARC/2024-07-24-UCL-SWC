@@ -55,6 +55,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %}
 
+
+<h2>Tickets</h2>
 <div class="pretix-widget-compat" event="https://pretix.eu/ARC/swc-2024-07-24/" single-item-select="button"></div>
 <noscript>
    <div class="pretix-widget">
@@ -63,6 +65,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
                 </div>
     </div>
 </noscript>
+
+Visit <a href="https://pretix.eu/ARC/swc-2024-07-24/" target="_blank">the booking website</a> if the widget won't load in your browser.
 
 <h2 id="general">General Information</h2>
 
